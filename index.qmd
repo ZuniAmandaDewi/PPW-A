@@ -1,20 +1,15 @@
-# Preface {.unnumbered}
+## Introduction {.unnumbered}
 
-This is a Quarto book.
+Selamat Datang di Web Statis Pencarian & Penambangan Web!!
 
+Di sini, tugas kuliah bukan sekadar kewajiban, melainkan pintu gerbang menuju pemahaman mendalam dan pengembangan keterampilan. Setiap tugas dirancang untuk memicu pemikiran analitis dan kreatif, mengajak Penulis meresapi materi kuliah dengan pendekatan praktis. Dengan menyelesaikan tugas-tugas ini, Penulis tidak hanya memperdalam pengetahuan akademis, tetapi juga melatih keterampilan penelitian, analisis, dan penyusunan argumen yang kokoh. Selamat mengeksplorasi dunia pembelajaran yang menantang namun memuaskan, tempat di mana tugas kuliah bukan hanya kewajiban, melainkan kesempatan untuk berkembang dan meraih prestasi.
 
-## Software conventions {.unnumbered}
+Selamat belajar!
 
-```{python}
-1 + 1
-```
+Drive PPW <https://drive.google.com/drive/folders/1DQrUOqYo2uwcETkfRYYcIl9LT4ekdCwu?usp=sharing>
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Streamlit UAS <https://klasifikasiberitaonline.streamlit.app/>
 
-
-## Acknowledgments {.unnumbered}
-
-Blah, blah, blah...
 
 
 \mainmatter

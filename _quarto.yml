@@ -2,16 +2,19 @@ project:
   type: book
 
 book:
-  title: "Quarto CRC Book"
+  title: "Pencarian & Penambangan Web"
   output-file: "quarto-crc"
-  author: "Jane Doe and Max Power"
-  date: "11/22/2022"
+  author: "Zuni Amanda Dewi (200411100051)"
 
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - scraping_pta.ipynb
+    - Preprocessing_dan_Ekstraksi_Fitur.ipynb
+    - LDA_Topic_Modelling.ipynb
+    - scraping_suararakyat.ipynb
+    - Klasifikasi_dengan_Ringkasan.ipynb
+    - ekstraksi_kata_kunci.ipynb
+    - UAS.ipynb
 
 bibliography: references.bib
 
